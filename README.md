@@ -1,10 +1,12 @@
-<img src="https://raw.githubusercontent.com/HIBA-BEG/HIBA-BEG/output/snake.svg" alt="Snake animation" />
+
 
 <h1 align="center">Hi 👋! My name is Tayyib BASBUNAR</h1>
 
 # Front-End Developer | React, TypeScript, Vite, Next.js
 
 I am a Front-End Developer with a strong passion for creating dynamic and user-friendly web applications using modern technologies. I specialize in React-based solutions and enjoy optimizing web performance for an enhanced user experience.
+
+<img src="https://raw.githubusercontent.com/HIBA-BEG/HIBA-BEG/output/snake.svg" alt="Snake animation" />
 
 ## Skills:
 
@@ -32,9 +34,6 @@ I am a Front-End Developer with a strong passion for creating dynamic and user-f
 Feel free to reach out for collaborations or exciting front-end projects!
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tayyib-b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
