@@ -1,10 +1,33 @@
 <h1 align="center">Hi 👋! My name is Tayyib BASBUNAR</h1>
 
-<h2 align="center">A passionate FULL-STACK developer from France </h2>
+# Front-End & Full Stack Developer | React, TypeScript, Vite, Next.js
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tayyib-b/count.svg?" alt="Visitor Counter" />
-</div>
+I am a developer passionate about modern technologies and optimizing web applications.
+
+## Skills:
+
+### Front-End:
+- React
+- TypeScript
+- Vite
+- Next.js
+- HTML5, CSS3, Sass
+
+### Full Stack:
+- Node.js
+- Express
+- Databases (MySQL, MongoDB)
+- RESTful APIs and GraphQL
+
+### Additional Skills:
+- Single Page Application (SPA) development
+- Web performance optimization
+- State management with Redux, Zustand, Recoil
+
+📫 **How to reach me**: [basbunartayyib@gmail.com](mailto:basbunartayyib@gmail.com)
+
+Feel free to reach out for collaborations or exciting projects!
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tayyib-b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -50,4 +73,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tbasdev57&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-💬 Feel free to contact me via email or check out my [LinkedIn](https://www.linkedin.com/in/tayyib-b) profile! 🚀
+### 📫 Contact Me  
+- **Email**: [basbunartayyib@gmail.com](mailto:basbunartayyib@gmail.com)  
+- **LinkedIn**: [Tayyib Basbunar](https://www.linkedin.com/in/tayyib-basbunar-/)  
