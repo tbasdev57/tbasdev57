@@ -11,6 +11,9 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/HIBA-BEG/HIBA-BEG/output/snake.svg" alt="Snake animation" />
+
+
 - 🌱 I’m currently learning **Full Stack Development**  
 - 📫 How to reach me **basbunartayyib@gmail.com**  
 - ⚡ Fun fact **Equal is Not Always Equal in JavaScript**  
