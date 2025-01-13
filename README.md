@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HIBA-BEG/HIBA-BEG/output/snake.svg" alt="Snake animation" />
+
 
 <h1 align="center">Hi 👋! My name is Tayyib BASBUNAR</h1>
 
