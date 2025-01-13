@@ -43,12 +43,11 @@
 </div>
 
 <br/>
+📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tayyib-b&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tayyib-b&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyib-b&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=tbasdev57&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tbasdev57&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tbasdev57&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 💬 Feel free to contact me via email or check out my [LinkedIn](https://www.linkedin.com/in/tayyib-b) profile! 🚀
