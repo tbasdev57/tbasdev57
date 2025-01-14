@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Tayyib BASBUNAR</h1>
 
-<h2 align="center">Front-End & Full Stack Developer | React, TypeScript, Next.js, Node.js, and more</h2>
+<h2 align="center">Next JS / React JS / Typescript / Developer (  Frontend </h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HIBA-BEG/HIBA-BEG/output/snake.svg" alt="Snake animation" />
